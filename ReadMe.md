@@ -2,6 +2,8 @@ Phase 1 Create a Project using Javascript to replicate behavior of CBP Passport 
 
 https://i94.cbp.dhs.gov/I94/#/recent-search#section
 
+Just accept terms and conditions to go to main page which is located here andhttps://i94.cbp.dhs.gov/I94/#/recent-search
+
 <!-- Acceptance Criteria -->
     *Input Validations should be working and mark red just like real ones
     *Match the data with data provided in data.json
